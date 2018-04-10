@@ -1,4 +1,4 @@
-# ES6 React boilerplate using Webpack
+# React Redux Webpack boilerplate using ES6
 
 This template was modified from Kliment Petrov's repository here: [https://github.com/KleoPetroff/react-webpack-boilerplate](https://github.com/KleoPetroff/react-webpack-boilerplate). It is meant to be used for my future projects. I have modified the template to include necessary components for my projects. 
 

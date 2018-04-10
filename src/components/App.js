@@ -4,7 +4,7 @@ import img from '../assets/images/react_logo_512x512.png';
 const App = () => {
   return (
     <div>
-      <h2 id="heading">Hello ReactJS</h2>
+      <h2 id="heading">Hello React</h2>
       <img
         className="image"
         style={{ margin: '0.5em' }}
